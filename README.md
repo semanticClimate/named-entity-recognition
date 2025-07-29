@@ -8,7 +8,7 @@ DOI Zenodo badge:
 
 Citation:
 
-Jawed, M., Priti, P., Mandeep, M., S, A., Barbhuiya, S., Kumari, R., Simon, W., Yadav, G., & Murray-Rust, P. (2025). Named Entity Recognition (NER) from Scholarly Literatures. Zenodo. https://doi.org/10.5281/zenodo.16559426
+Jawed, M., Priti, Mandeep, S, A., Barbhuiya, S., Kumari, R., Simon, W., Yadav, G., & Murray-Rust, P. (2025). Named Entity Recognition (NER) from Scholarly Literatures. Zenodo. https://doi.org/10.5281/zenodo.16559426
 
 Description: 
 
