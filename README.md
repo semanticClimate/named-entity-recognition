@@ -1,6 +1,8 @@
 # Named Entity Recognition (NER) from Scholarly Literatures
 
-<a href="https://colab.research.google.com/github.com/semanticClimate/named-entity-recognition/blob/main/Named_Entity_Extraction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/your-repo/path/to/notebook.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="max-width: 100%;">
+</a>
 
 DOI Zenodo badge: 
 
